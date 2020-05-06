@@ -1,4 +1,5 @@
 ![Async Logo](https://raw.githubusercontent.com/caolan/async/master/logo/async-logo_readme.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fasync.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Fasync?ref=badge_shield)
 
 [![Build Status via Travis CI](https://travis-ci.org/caolan/async.svg?branch=master)](https://travis-ci.org/caolan/async)
 [![Build Status via Azure Pipelines](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master)
@@ -58,3 +59,7 @@ async.mapLimit(urls, 5, async function(url) {
     console.log(results)
 })
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fasync.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Fasync?ref=badge_large)
